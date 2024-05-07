@@ -9,6 +9,7 @@ It further uses Autoencoders for obstacle and anomaly detection.The autoencoders
 
 
 RNNs are employed to effeciently handle real-time video inputs, RNNs use the computations done on the previous inputs to form an understanding and hence will be used to decrease the computations required in each subsequent frame.They will primarily be used to segment the different terrains present in any particular frame , due to the similarities between video frames this segmentation provides great context for the next frame's terrain distribution .
+[Prototype Pdf.pdf](https://github.com/Satvik-Gautam/Terrain-Recognition/files/15229762/Prototype.Pdf.pdf)
 
 
 
